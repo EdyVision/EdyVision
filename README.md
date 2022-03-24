@@ -5,7 +5,7 @@ I'm an engineer by day and by night, I'm a writer and researcher currently divin
 ### Works
 Below is a breakdown of where to find my recent works:
 <ul>
-  <li>Code: See above pinned items</li>
+  <li>Code: See pinned items</li>
   <li>
     Writing:
     <ul>
