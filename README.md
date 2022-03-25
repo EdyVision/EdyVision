@@ -1,6 +1,6 @@
 ## Hi there, I'm Eidan 👋
 
-I'm an engineer by day and by night, I'm a writer and researcher currently diving into psychological and social factors in information disclosure patterns and detection on social media. In the past, I've worked on a number of serverless and website projects that I've since open sourced. 
+I'm an engineer by day and by night, I'm a writer and researcher currently diving into psychological and social factors in information disclosure patterns and detection on social media. In the past, I've worked on a number of serverless and website projects that I've since open sourced. Work experience includes enterprise API development, distributed network systems, and flight training simulators.
 
 ### Works
 Below is a breakdown of where to find my recent works:
