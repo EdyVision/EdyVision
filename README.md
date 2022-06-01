@@ -10,9 +10,12 @@ Below is a breakdown of where to find my recent works:
     Writing:
     <ul>
       <li>
-        Book:  <a href="https://www.amazon.com/Building-Serverless-Node-js-Apps-AWS/dp/B08RSTS491/ref=sr_1_1?keywords=eidan+rosado&qid=1639178047&sr=8-1">Building Serverless Node.js Apps on AWS: A Brief Guide on Where to Start</a>
+        Book:  <a href="https://shop.eidanrosado.com/l/building-serverless-nodejs-apps-on-aws">Building Serverless Node.js Apps on AWS: A Brief Guide on Where to Start</a>
       </li>
-      <li>Blog: <a href="https://medium.com/@eidanrosado">Medium</a></li>
+      <li>
+        Book: <a href="https://shop.eidanrosado.com/l/building-serverless-python-apps-using-fastapi-and-aws">Building Serverless Python Apps Using FastAPI and AWS: A Brief Guide on Where to Start</a>
+      </li>
+      <li>Blog: <a href="https://eidanrosado.com">eidanrosado.com</a></li>
     </ul>
   </li>
   <li>
