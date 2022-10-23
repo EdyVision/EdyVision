@@ -5,7 +5,7 @@
 [![Gumroad](https://img.shields.io/badge/GUMROAD-36a9ae?style=for-the-badge&logo=gumroad&logoColor=white)](https://shop.eidanrosado.com/)
 
 ## About Me
-I'm an engineer by day and by night, I'm a writer and Ph.D student currently diving into psychological and social factors in information disclosure patterns and detection on social media. In the past, I've worked on a number of serverless and website projects that I've since open sourced. Work experience includes enterprise API development, distributed network systems, and flight training simulators.
+I'm an engineer by day and by night, I'm a writer and Ph.D student currently diving into psychological and social factors in information disclosure patterns on social media. In the past, I've worked on a number of serverless and website projects that I've since open sourced. Work experience includes enterprise API development, distributed network systems, and flight training simulators.
 
 ## Works
 
