@@ -1,4 +1,5 @@
 ## Hi there, I'm Eidan 👋
+
 <div align="center">
  
 [![Research Gate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Eidan-Rosado)
@@ -10,7 +11,6 @@
   
 </div>
 
-## ℹ️ About Me
 I'm an engineer by day and by night, I'm a writer and Ph.D student. My current research dives into psychological and social factors in information disclosure patterns on social media. In the past, I've worked on a number of serverless and website projects that I've since open sourced. Work experience includes enterprise API development, distributed network systems, and flight training simulators.
 
 <div align="center">
