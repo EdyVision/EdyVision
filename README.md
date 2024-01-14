@@ -11,11 +11,11 @@
   
 </div>
 
-I'm an engineer by day and by night, I'm a writer and Ph.D student. My current research dives into psychological and social factors in information disclosure patterns on social media. In the past, I've worked on a number of serverless and website projects that I've since open sourced. Work experience includes enterprise API development, distributed network systems, and flight training simulators.
+I'm an engineer by day and a writer and researcher by night. My current research dives into psychological and social factors in information disclosure patterns on social media. Research interests include neuropsychological and socio-cultural factors in human-computer interactions and AI, computational social science, social cybersecurity, social ideation systems and communities, and ethics in technology. In the past, I've worked on several serverless and website projects that I've since open-sourced. My work experience includes enterprise API development, distributed network and sensor systems, flight training simulators, e-commerce solutions, and benefit administration platforms.
 
 <div align="center">
  
-[![Stats](https://github-readme-stats.vercel.app/api?username=EdyVision&theme=blue-green)]()
+<!--[![Stats](https://github-readme-stats.vercel.app/api?username=EdyVision&theme=blue-green)]()-->
  
  </div>
  
