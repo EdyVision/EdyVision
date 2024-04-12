@@ -5,13 +5,15 @@
 [![Research Gate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Eidan-Rosado)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eidanrosado/)
 [![Polywork](https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white)](https://www.polywork.com/erosado)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ejrosado9)
-[![Gumroad](https://img.shields.io/badge/GUMROAD-36a9ae?style=for-the-badge&logo=gumroad&logoColor=white)](https://shop.eidanrosado.com/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@eidanrosado)
+[![LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/docejr)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=0JPhAD4AAAAJ&hl=en)
   
 </div>
 
-I'm an engineer by day and a writer and researcher by night. My current research dives into psychological and social factors in information disclosure patterns on social media. Research interests include neuropsychological and socio-cultural factors in human-computer interactions and AI, computational social science, social cybersecurity, social ideation systems and communities, and ethics in technology. In the past, I've worked on several serverless and website projects that I've since open-sourced. My work experience includes enterprise API development, distributed network and sensor systems, flight training simulators, e-commerce solutions, and benefit administration platforms.
+By day I'm an engineer, and by night, I'm a writer, researcher, and computer science professor. My most recent research dives into psychological and social factors in information disclosure patterns on social media. Research interests include neuropsychological and socio-cultural factors in human-computer interactions and AI, computational social science, social cybersecurity, social ideation systems and communities, and ethics in technology. In the past, I've worked on several serverless and website projects that I've since open-sourced. My work experience includes enterprise API development, distributed network and sensor systems, flight training simulators, e-commerce solutions, and benefit administration platforms. 
+
+Follow me on LinkedIn or here on GitHub for updates!
 
 <div align="center">
  
@@ -20,7 +22,6 @@ I'm an engineer by day and a writer and researcher by night. My current research
  </div>
  
  ## 💻 Expertise
- <div align="center">
  
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
@@ -39,9 +40,16 @@ I'm an engineer by day and a writer and researcher by night. My current research
 [![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)]()
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]()
 [![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)]()
+[![LATEX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)]()
 [![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)]()
+[![DataDog](https://img.shields.io/badge/DATADOG-632CA6?style=for-the-badge&logo=datadog&logoColor=white)]()
+[![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)]()
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)]()
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
+[![Sci Kit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)]()
+[![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)]()
+[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)]()
 
-</div>
 <br/>
 
 ## 🛠️ Current Projects
