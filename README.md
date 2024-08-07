@@ -4,14 +4,13 @@
  
 [![Research Gate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Eidan-Rosado)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eidanrosado/)
-[![Polywork](https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white)](https://www.polywork.com/erosado)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@eidanrosado)
 [![LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/docejr)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=0JPhAD4AAAAJ&hl=en)
   
 </div>
 
-By day I'm an engineer, and by night, I'm a writer, researcher, and computer science professor. My most recent research dives into psychological and social factors in information disclosure patterns on social media. Research interests include neuropsychological and socio-cultural factors in human-computer interactions and AI, computational social science, social cybersecurity, social ideation systems and communities, and ethics in technology. In the past, I've worked on several serverless and website projects that I've since open-sourced. My work experience includes enterprise API development, distributed network and sensor systems, flight training simulators, e-commerce solutions, and benefit administration platforms. 
+By day, I'm an engineer; by night, I'm a writer, researcher, and computer science professor. My most recent research dives into psychological and social factors in information disclosure patterns on social media. Research interests include neuropsychological and socio-cultural factors in human-computer interactions and AI, computational social science, social cybersecurity, social ideation systems and communities, and ethics in technology. In the past, I've worked on several serverless and website projects that I've since open-sourced. My work experience includes enterprise API development, distributed network and sensor systems, flight training simulators, e-commerce solutions, and benefit administration platforms. 
 
 Follow me on LinkedIn or here on GitHub for updates!
 
