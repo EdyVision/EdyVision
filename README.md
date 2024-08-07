@@ -10,7 +10,7 @@
   
 </div>
 
-By day, I'm an engineer; by night, I'm a writer, researcher, and computer science professor. My most recent research dives into psychological and social factors in information disclosure patterns on social media. Research interests include neuropsychological and socio-cultural factors in human-computer interactions and AI, computational social science, social cybersecurity, social ideation systems and communities, and ethics in technology. In the past, I've worked on several serverless and website projects that I've since open-sourced. My work experience includes enterprise API development, distributed network and sensor systems, flight training simulators, e-commerce solutions, and benefit administration platforms. 
+By day, I'm an engineer; by night, I'm a writer, researcher, and computer science professor. My most recent research dives into psychological and social factors in information disclosure patterns on social media. Research interests include neuropsychological and socio-cultural factors in human-computer interactions, computational social science, social ideation systems and communities, and technological ethics. In the past, I've worked on several serverless and website projects that I've since open-sourced. My work experience includes enterprise API development, distributed network and sensor systems, flight training simulators, e-commerce solutions, and benefit administration platforms. 
 
 Follow me on LinkedIn or here on GitHub for updates!
 
