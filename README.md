@@ -63,11 +63,10 @@ Follow me on LinkedIn or here on GitHub for updates!
 ## 📓 Past Works
 
 * Personal Site: <a href="https://eidanrosado.com">eidanrosado.com</a></li>
-* Writing:
-  * Books
-    * <a href="https://shop.eidanrosado.com/l/building-serverless-nodejs-apps-on-aws">Building Serverless Node.js Apps on AWS: A Brief Guide on Where to Start</a>
-    * <a href="https://shop.eidanrosado.com/l/building-serverless-python-apps-using-fastapi-and-aws">Building Serverless Python Apps Using FastAPI and AWS: A Brief Guide on Where to Start</a>
-* Research: <a href="https://www.researchgate.net/profile/Eidan-Rosado">Research Gate Profile</a>
+* Published Works:
+  * <a href="https://shop.eidanrosado.com/l/building-serverless-nodejs-apps-on-aws">Building Serverless Node.js Apps on AWS: A Brief Guide on Where to Start</a>
+  * <a href="https://shop.eidanrosado.com/l/building-serverless-python-apps-using-fastapi-and-aws">Building Serverless Python Apps Using FastAPI and AWS: A Brief Guide on Where to Start</a>
+  * <a href="https://www.researchgate.net/profile/Eidan-Rosado">Research</a>
 
 <!--
 **EdyVision/EdyVision** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
