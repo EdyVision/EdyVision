@@ -10,7 +10,7 @@
   
 </div>
 
-By day, I'm an engineer; by night, I'm a writer, researcher, and computer science professor. My previous research examined the psychological and social factors that affect patterns of information disclosure on social media. I am currently working on a series of projects that utilize LLMs and traditional ML models to analyze online discourse and behavior. My research interests are diverse and include neuropsychological and sociocultural influences on human-computer interactions, computational social science, social ideation systems and communities, as well as the application of physiological sensors in HCI or psychological research. 
+By day, I'm an engineer; by night, I'm a writer, researcher, and computer science professor. My current projects explore computational psycholinguistics, user role dynamics, and discourse patterns on social media using large language models and efficient attention mechanisms. My previous research examined the psychological and social factors that affect patterns of information disclosure on social media. My research interests are diverse and include neuropsychological and sociocultural influences on human-computer interactions, computational social science, psycholinguistics, social ideation systems and communities, as well as the application of physiological sensors in HCI or psychological research. 
 
 In the past, I've worked on several microservice and website projects that I've since open-sourced. My work experience includes enterprise API development, <a href="https://www.dote.osd.mil/Portals/97/pub/reports/FY2016/dod/2016jwarn.pdf?ver=2019-08-22-105334-620">distributed network and sensor systems</a>, <a href="https://www.cae.com/defense-security/program-highlights/aviation-combined-arms-tactical-trainer-avcatt/">military helicopter </a> and <a href="https://www.northropgrumman.com/what-we-do/air/b-2-stealth-bomber">fixed wing</a> flight training simulators, <a href="https://www.salesforce.com/commerce/order-management/">e-commerce B2B solutions</a>, and benefit administration platforms. 
 
@@ -66,17 +66,17 @@ Follow me on <a href="https://www.linkedin.com/in/eidanrosado/">LinkedIn</a>, <a
 <br/>
 
 ## 🛠️ Current Projects
-<div align="center">
-<a href="https://github.com/EdyVision/pii-codex/"><img src="https://github.com/EdyVision/pii-codex/blob/main/docs/PII_Codex_Logo.svg"  width="350" height="150"/></a>
+
+<div align="center"  width="350" height="350">
+ 
+<img src="https://raw.githubusercontent.com/EdyVision/ai-ml-experiments/main/AcademicPlanningAgentScreenshot.png" alt="Academic Planning Agent Interface" width="600" height="600">
+
 </div>
 
 ## 📓 Past Works
 
-* Personal Site: <a href="https://eidanrosado.com">eidanrosado.com</a></li>
-* Published Works:
-  * 📖 <a href="https://shop.eidanrosado.com/l/building-serverless-nodejs-apps-on-aws">Building Serverless Node.js Apps on AWS: A Brief Guide on Where to Start</a>
-  * 📖 <a href="https://shop.eidanrosado.com/l/building-serverless-python-apps-using-fastapi-and-aws">Building Serverless Python Apps Using FastAPI and AWS: A Brief Guide on Where to Start</a>
-  * 👤 <a href="https://www.researchgate.net/profile/Eidan-Rosado">Research</a>
+| <a href="https://github.com/EdyVision/pii-codex/"><img src="https://github.com/EdyVision/pii-codex/blob/main/docs/PII_Codex_Logo.svg"  width="350" height="150"/></a> | <a href="https://eidanrosado.com/building-serverless-python-apps-using-fastapi-and-aws"><img src="https://eidanrosado.com/hs-fs/hubfs/FastApi%20ebook%20cover%20(7%20%C3%97%2010%20in).jpg?width=600&height=858&name=FastApi%20ebook%20cover%20(7%20%C3%97%2010%20in).jpg" width="100" height="250"/></a>| <a href="https://eidanrosado.com/building-serverless-node.js-apps-on-aws"><img src="https://eidanrosado.com/hs-fs/hubfs/serverless%20aws%20apps%20ebook%20cover%20(7%20%C3%97%2010%20in).jpg?width=600&height=858&name=serverless%20aws%20apps%20ebook%20cover%20(7%20%C3%97%2010%20in).jpg" width="100" height="250"/></a> |
+|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
 
 <!--
 **EdyVision/EdyVision** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
