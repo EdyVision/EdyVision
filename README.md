@@ -69,7 +69,7 @@ Follow me on <a href="https://www.linkedin.com/in/eidanrosado/">LinkedIn</a>, <a
 
 <div align="center"  width="350" height="350">
  
-<img src="https://raw.githubusercontent.com/EdyVision/ai-ml-experiments/main/AcademicPlanningAgentScreenshot.png" alt="Academic Planning Agent Interface" width="600" height="600">
+<a href="https://github.com/EdyVision/academic-planning-assistant"><img src="https://raw.githubusercontent.com/EdyVision/ai-ml-experiments/main/AcademicPlanningAgentScreenshot.png" alt="Academic Planning Agent Interface" width="600" height="600"></a>
 
 </div>
 
