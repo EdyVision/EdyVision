@@ -75,7 +75,7 @@ Follow me on <a href="https://www.linkedin.com/in/eidanrosado/">LinkedIn</a>, <a
 
 ## 📓 Past Works
 
-| <a href="https://github.com/EdyVision/pii-codex/"><img src="https://github.com/EdyVision/pii-codex/blob/main/docs/PII_Codex_Logo.svg"  width="350" height="150"/></a> | <a href="https://eidanrosado.com/building-serverless-python-apps-using-fastapi-and-aws"><img src="https://eidanrosado.com/hs-fs/hubfs/FastApi%20ebook%20cover%20(7%20%C3%97%2010%20in).jpg?width=600&height=858&name=FastApi%20ebook%20cover%20(7%20%C3%97%2010%20in).jpg" width="100" height="250"/></a>| <a href="https://eidanrosado.com/building-serverless-node.js-apps-on-aws"><img src="https://eidanrosado.com/hs-fs/hubfs/serverless%20aws%20apps%20ebook%20cover%20(7%20%C3%97%2010%20in).jpg?width=600&height=858&name=serverless%20aws%20apps%20ebook%20cover%20(7%20%C3%97%2010%20in).jpg" width="100" height="250"/></a> |
+| <a href="https://github.com/EdyVision/pii-codex/"><img src="https://github.com/EdyVision/pii-codex/blob/main/docs/PII_Codex_Logo.svg"  width="350" height="150"/></a> | <a href="https://m.media-amazon.com/images/I/61S+74UyaCL._SY522_.jpg"><img src="https://m.media-amazon.com/images/I/61S+74UyaCL._SY522_.jpg" alt="Product Image" width="100" height="300"></a> | <a href="https://m.media-amazon.com/images/I/61KGMTbTCxL._SY522_.jpg"><img src="https://m.media-amazon.com/images/I/61KGMTbTCxL._SY522_.jpg" alt="Product Image" width="100" height="250"></a> |
 |------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
 
 <!--
