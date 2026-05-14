@@ -88,7 +88,7 @@ Follow me on <a href="https://www.linkedin.com/in/eidanrosado/">LinkedIn</a>, <a
 
 ## 📓 Past Works
 
-| <a href="https://github.com/EdyVision/pii-codex/"><img src="https://github.com/EdyVision/pii-codex/blob/main/docs/PII_Codex_Logo.svg"  width="350" height="150"/></a> | <a href="https://m.media-amazon.com/images/I/61S+74UyaCL._SY522_.jpg"><img src="https://m.media-amazon.com/images/I/61S+74UyaCL._SY522_.jpg" alt="Product Image" width="100" height="300"></a> | <a href="https://m.media-amazon.com/images/I/61KGMTbTCxL._SY522_.jpg"><img src="https://m.media-amazon.com/images/I/61KGMTbTCxL._SY522_.jpg" alt="Product Image" width="100" height="250"></a> |
+| <a href="https://github.com/EdyVision/pii-codex/"><img src="https://github.com/EdyVision/pii-codex/blob/main/docs/PII_Codex_Logo.svg"  width="350" height="150"/></a> | <a href="https://m.media-amazon.com/images/I/61S+74UyaCL._SY522_.jpg"><img src="https://m.media-amazon.com/images/I/61S+74UyaCL._SY522_.jpg" alt="Product Image" width="175" height="250"></a> | <a href="https://m.media-amazon.com/images/I/61KGMTbTCxL._SY522_.jpg"><img src="https://m.media-amazon.com/images/I/61KGMTbTCxL._SY522_.jpg" alt="Product Image" width="175" height="250"></a> |
 |------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
 
 <!--
