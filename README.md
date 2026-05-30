@@ -10,7 +10,7 @@
   
 </div>
 
-By day, I'm an engineer; by night, I'm a writer, researcher, and computer science professor. My current projects explore computational psycholinguistics, user role dynamics, and discourse patterns on social media using large language models and efficient attention mechanisms. My previous research examined the psychological and social factors that affect patterns of information disclosure on social media. My research interests are diverse and include neuropsychological and sociocultural influences on human-computer interactions, computational social science, psycholinguistics, social ideation systems and communities, as well as the application of physiological sensors in HCI or psychological research. 
+By day, I'm an engineer; by night, I'm a writer, researcher, and computer science professor. My current projects explore computational psycholinguistics, user role dynamics, and discourse patterns on social media using large language models and efficient attention mechanisms. My previous research examined the psychological and social factors that affect patterns of information disclosure on social media. My research interests are diverse and include neuropsychological and sociocultural factors in human-computer interactions, computational social science, psycholinguistics, social ideation systems and communities, and the application of physiological sensors in HCI and psychological research. 
 
 In the past, I've worked on several web, microservice, and AI/ML projects that I've since open-sourced. My work experience includes enterprise API development, <a href="https://www.dote.osd.mil/Portals/97/pub/reports/FY2016/dod/2016jwarn.pdf?ver=2019-08-22-105334-620">distributed network and sensor systems</a>, <a href="https://www.cae.com/defense-security/program-highlights/aviation-combined-arms-tactical-trainer-avcatt/">military helicopter </a> and <a href="https://www.northropgrumman.com/what-we-do/air/b-2-stealth-bomber">fixed wing</a> flight training simulators, <a href="https://www.salesforce.com/commerce/order-management/">e-commerce B2B solutions</a>, and benefit administration platforms. 
 
@@ -88,7 +88,7 @@ Follow me on <a href="https://www.linkedin.com/in/eidanrosado/">LinkedIn</a>, <a
 
 ## 📓 Past Works
 
-| <a href="https://github.com/EdyVision/pii-codex/"><img src="https://github.com/EdyVision/pii-codex/blob/main/docs/PII_Codex_Logo.svg"  width="350" height="150"/></a> | <a href="https://m.media-amazon.com/images/I/61S+74UyaCL._SY522_.jpg"><img src="https://m.media-amazon.com/images/I/61S+74UyaCL._SY522_.jpg" alt="Product Image" width="175" height="250"></a> | <a href="https://m.media-amazon.com/images/I/61KGMTbTCxL._SY522_.jpg"><img src="https://m.media-amazon.com/images/I/61KGMTbTCxL._SY522_.jpg" alt="Product Image" width="175" height="250"></a> |
+| <a href="https://github.com/EdyVision/pii-codex/"><img src="https://github.com/EdyVision/pii-codex/blob/main/docs/PII_Codex_Logo.svg"  width="350" height="150"/></a> | <a href="https://www.amazon.com/dp/B0H2FBZQ6L"><img src="https://m.media-amazon.com/images/I/71fi-BZrBgL._SL1500_.jpg" alt="Product Image" width="175" height="250"></a> | <a href="https://www.amazon.com/dp/B0H2SVNB4G"><img src="https://m.media-amazon.com/images/I/71W8PjGEHcL._SL1500_.jpg" alt="Product Image" width="175" height="250"></a> |
 |------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
 
 <!--
