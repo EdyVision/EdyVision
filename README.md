@@ -67,7 +67,7 @@ Follow me on <a href="https://www.linkedin.com/in/eidanrosado/">LinkedIn</a>, <a
 
 ## 🛠️ Current Projects
 
-<div align="center"  width="350" height="350">
+<!-- <div align="center"  width="350" height="350">
  
     ██████╗ ██████╗  ██████╗      ██╗███████╗ ██████╗████████╗                   
     ██╔══██╗██╔══██╗██╔═══██╗     ██║██╔════╝██╔════╝╚══██╔══╝                   
@@ -84,7 +84,14 @@ Follow me on <a href="https://www.linkedin.com/in/eidanrosado/">LinkedIn</a>, <a
           ╚═╝  ╚═╝╚══════╝╚═════╝  ╚═════╝ ╚═╝  ╚═══╝                                  
                                                                                 
 
+</div> -->
+<div align="center"  width="350" height="350">
+<a href="https://github.com/EdyVision/hedon-robotics"><img src="https://github.com/EdyVision/hedon-robotics/blob/main/AnimatedHedonUI.png" width="600"/></a>
 </div>
+
+<p><strong>Hedon</strong> is a <strong>platform- and robot-agnostic</strong> robotics stack for affective behavior: it turns multimodal perception (vision, audio, biosignals, and similar) into fused emotional profiles and concrete actions through a vendor-free core (<code>hedon_core</code>) and narrow <strong>ports/adapters</strong>, not through a single chassis or cloud SDK.</p>
+<p>Robot I/O, simulation, and deployment plug in at the edges—Cyberwave twins, Raspberry Pi edge runners, ROS camera feeds, and others—while the same fusion loop, safety-style decisions, and experience logging contract stay stable across targets.</p>
+<p><strong>UGV Beast</strong> is the reference platform in this repo; optional <strong>pem-core</strong> (<em>Coming Soon!</em>) integration records ticks and distills longer-term memory without tying Hedon to one operator backend.</p>
 
 ## 📓 Past Works
 
